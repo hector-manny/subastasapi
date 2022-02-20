@@ -1,0 +1,17 @@
+<html>
+<head></head>
+<body style="background: linear-gradient(180deg, #313945 48.63%, rgba(49, 57, 69, 0.5) 119.34%, rgba(49, 57, 69, 0) 213.87%); width: 100%; text-align: center;">
+    
+    <div>
+        <img src="http://localhost:8080/files/logo.png" alt="">
+    </div>
+    <br>
+    <div>
+        <p> <h3 style="color: white;"> ¡Vamos a mis subastas! </h3></b></p>
+    </div>
+    
+    <p style="color: white;">Estimado usuario el siguiente paso para poser acceder a la cuenta es asignar una contraseña: </p>
+    <div> <h3> <a href="${codigo}" style="color:black; background-color: white; padding: 10px 15px 10px 15px; border-radius: 4px;"><strong>Establecer contraseña </strong></a></h3></div>
+
+</body>
+</html>
